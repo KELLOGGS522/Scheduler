@@ -1,0 +1,10 @@
+segment70mm;Segment 70 Propre à l'option Générale;blocmm-70a,blocmm-70b,blocmm-70c,bloc_admin_mm,bloc_cours_complementaires
+segment70st;Segment 70 Propre à l'option Générale;blocst-70a,blocst-70b,blocst-70c,bloc_admin_st,bloc_cours_complementaires
+segment70td;Segment 70 Propre à l'option Générale;bloctd-70a,bloctd-70b,bloctd-70c,bloc_admin_td,bloc_cours_complementaires
+segment71;;bloc_admin_mm,bloc_cours_complementaires
+segment72;;bloc_admin_mm,bloc_cours_complementaires
+segment73;;bloc_admin_mm,bloc_cours_complementaires
+segment74;;bloc_admin_mm,bloc_cours_complementaires
+segment75;;bloc_admin_mm,bloc_cours_complementaires
+segment76;;bloc_admin_mm,bloc_cours_complementaires
+segment77;;bloc_admin_mm,bloc_cours_complementaires

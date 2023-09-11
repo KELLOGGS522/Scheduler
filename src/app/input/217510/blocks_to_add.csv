@@ -1,0 +1,4 @@
+bloc_admin_mm;Bloc administratif;obligatoire;0;0;admin_prof,admin_sujet_mem,admin_depot
+bloc_admin_st;Bloc administratif;obligatoire;0;0;admin_prof,admin_sujet_st
+bloc_admin_td;Bloc administratif;obligatoire;0;0;admin_prof,admin_sujet_td
+bloc_cours_complementaires;Bloc Cours prescrits complémentaires;option;0;6;ift2015,ift2125
